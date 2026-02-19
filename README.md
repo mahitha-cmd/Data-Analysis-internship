@@ -1,5 +1,4 @@
 # Data-Analysis-internship
-# Data Analysis Internship Using Python
 
  Overview
 This repository contains the concepts, assignments, and practice programs that I completed during my Data Analysis internship using Python.
